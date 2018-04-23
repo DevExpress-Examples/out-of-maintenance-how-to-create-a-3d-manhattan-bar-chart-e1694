@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManhattanBar3DChart", "ManhattanBar3DChart.csproj", "{FAE8EB13-B672-42BC-86D6-1BFD25530ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE8EB13-B672-42BC-86D6-1BFD25530ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE8EB13-B672-42BC-86D6-1BFD25530ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE8EB13-B672-42BC-86D6-1BFD25530ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE8EB13-B672-42BC-86D6-1BFD25530ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
